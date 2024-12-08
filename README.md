@@ -1,4 +1,4 @@
 # Price_Prediction_Model
-This is my first Smart phone price Prediction Model
+This is my first Smart Phone Price Prediction Model
 <br>
-Author: M Najeeb Haider
+Author: Muhammad Najeeb Haider
